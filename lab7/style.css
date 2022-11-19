@@ -36,12 +36,12 @@ h1 {
 
 .gallery_inner .slick-arrow.slick-prev {
   left: 0;
-  background: url('../images/left.svg') 0 0 / 100% no-repeat;
+  background: url('left.svg') 0 0 / 100% no-repeat;
 }
 
 .gallery_inner .slick-arrow.slick-next {
   right: 5px;
-  background: url('../images/right.svg') 0 0 / 100% no-repeat;
+  background: url('right.svg') 0 0 / 100% no-repeat;
 }
 
 .gallery_inner .slick-arrow.slick-prev:hover,
