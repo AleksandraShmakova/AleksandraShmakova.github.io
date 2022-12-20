@@ -12,7 +12,7 @@
 }
 
 @media (min-width: 850px) {
-  .header {
+  .menu_list {
     display: flex;
     flex-direction: column;
   }
