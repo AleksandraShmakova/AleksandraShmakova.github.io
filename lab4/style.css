@@ -13,6 +13,7 @@
 
 @media (min-width: 850px) {
   .header {
+    display: flex;
     flex-direction: column;
   }
   .main {
