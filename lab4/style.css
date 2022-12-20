@@ -12,7 +12,7 @@
 }
 
 @media (min-width: 850px) {
-  .menu_list {
+  .menu_link {
     display: flex;
     flex-direction: column;
   }
